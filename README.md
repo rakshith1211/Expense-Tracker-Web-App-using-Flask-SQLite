@@ -1,6 +1,5 @@
 # Expense-Tracker-Web-App-using-Flask-SQLite
 
-# 💸 Expense-Tracker-Web-App-using-Flask-SQLite
 
 A simple and functional **Expense Tracker Web App** built with **Flask** and **SQLite**. This app helps users manage personal expenses by allowing them to **add**, **store**, and **view** expense records through a clean web interface and RESTful APIs.
 
